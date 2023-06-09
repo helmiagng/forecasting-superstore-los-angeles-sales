@@ -9,5 +9,5 @@ Time Series Model Results :
 
 Real vs Forecasting Superstore Sales in Los Angeles chart:
 
-![real vs forecasting sales chart ](https://github.com/helmiagng/forecasting-superstore-los-angeles-sales/assets/68595414/e1a69633-a48f-4fb2-b194-05119504b2a3)
+![real vs forecasting sales chart ](https://github.com/helmiagng/forecasting-superstore-los-angeles-sales/assets/68595414/91eae300-ccf0-40cd-8f24-fe349227a0a0)
 
